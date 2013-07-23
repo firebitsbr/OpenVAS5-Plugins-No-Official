@@ -10,5 +10,6 @@ A problem, and bug or flaw, accept suggestions:
 
 Emails:
 
-firebitsbr @nospam@ wald.intevation.org 
+firebitsbr @nospam@ wald.intevation.org
+
 mauro.risonho @nospam@ gmail.com
